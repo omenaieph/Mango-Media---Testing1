@@ -674,7 +674,7 @@ body {
 
   .main-two-bc2{
     height: 40vh;
-    width: 93vw;
+    width: 100vw;
   }
 
   .main-two-bc{
@@ -985,6 +985,35 @@ body {
     height: 35vh;
   }
 
+  .main2-paragraph{
+    font-size: 0.7rem;
+    margin-top: 10px;
+  }
+
+  .main3-paragraph{
+    font-size: 0.7rem;
+    margin-top: 10px;
+  }
+
+
+  .main4-paragraph{
+    font-size: 0.7rem;
+    margin-top: 10px;
+  }
+
+
+  .main2-head{
+    font-size: 1.2rem;
+  }
+
+  .main3-head{
+    font-size: 1.2rem;
+  }
+
+  .main4-head{
+    font-size: 1.2rem;
+  }
+
 
 }
 
@@ -1170,14 +1199,44 @@ body {
   }
 
   .main-two-bc2{
-    height: 35vh;
+    height: 37vh;
     width: 93vw;
   }
 
   .main-two-bc{
     width: 93vw;
-    height: 35vh;
+    height: 37vh;
   }
+
+  .main2-paragraph{
+    font-size: 0.7rem;
+    margin-top: 10px;
+  }
+
+  .main3-paragraph{
+    font-size: 0.7rem;
+    margin-top: 10px;
+  }
+
+
+  .main4-paragraph{
+    font-size: 0.7rem;
+    margin-top: 10px;
+  }
+
+
+  .main2-head{
+    font-size: 1.2rem;
+  }
+
+  .main3-head{
+    font-size: 1.2rem;
+  }
+
+  .main4-head{
+    font-size: 1.2rem;
+  }
+
 
 }
 
@@ -1238,13 +1297,42 @@ body {
   }
 
   .main-two-bc2{
-    height: 35vh;
-    width: 93vw;
+    height: 37vh;
+    width: 100vw;
   }
 
   .main-two-bc{
     width: 93vw;
     height: 35vh;
+  }
+
+  .main2-paragraph{
+    font-size: 0.7rem;
+    margin-top: 10px;
+  }
+
+  .main3-paragraph{
+    font-size: 0.7rem;
+    margin-top: 10px;
+  }
+
+
+  .main4-paragraph{
+    font-size: 0.7rem;
+    margin-top: 10px;
+  }
+
+
+  .main2-head{
+    font-size: 1.2rem;
+  }
+
+  .main3-head{
+    font-size: 1.2rem;
+  }
+
+  .main4-head{
+    font-size: 1.2rem;
   }
 
 }
@@ -1428,13 +1516,42 @@ body {
   }
 
   .main-two-bc2{
-    height: 35vh;
+    height: 37vh;
     width: 93vw;
   }
 
   .main-two-bc{
     width: 93vw;
-    height: 35vh;
+    height: 37vh;
+  }
+
+  .main2-paragraph{
+    font-size: 0.7rem;
+    margin-top: 10px;
+  }
+
+  .main3-paragraph{
+    font-size: 0.7rem;
+    margin-top: 10px;
+  }
+
+
+  .main4-paragraph{
+    font-size: 0.7rem;
+    margin-top: 10px;
+  }
+
+
+  .main2-head{
+    font-size: 1.2rem;
+  }
+
+  .main3-head{
+    font-size: 1.2rem;
+  }
+
+  .main4-head{
+    font-size: 1.2rem;
   }
 
 
@@ -1491,18 +1608,18 @@ body {
   }
 
   .main2-paragraph{
-    font-size: 0.7rem;
+    font-size: 0.6rem;
     margin-top: 10px;
   }
 
   .main3-paragraph{
-    font-size: 0.7rem;
+    font-size: 0.6rem;
     margin-top: 10px;
   }
 
 
   .main4-paragraph{
-    font-size: 0.7rem;
+    font-size: 0.6rem;
     margin-top: 10px;
   }
 
@@ -1519,6 +1636,8 @@ body {
     font-size: 1.2rem;
   }
 
-
+  .main-three{
+    margin-top: 100px;
+  }
 
 }
