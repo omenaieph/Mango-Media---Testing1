@@ -527,6 +527,11 @@ body {
     position: static;
   }
 
+  .fade-up{
+    display: none;
+    position: static;
+  }
+
   .poly-top {
     position: static;
     display: none;
